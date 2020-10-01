@@ -1,6 +1,6 @@
 import java.io.File;
 
-public class Ejercicio1 {
+public class Main {
 	public static void main(String[] args) {
 		
 		String rutaRaiz="C:\\Users\\Gonzotp\\Desktop\\Directorios";
